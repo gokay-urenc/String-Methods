@@ -1,0 +1,22 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\bin\Debug\Methods_Stringler.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\bin\Debug\Methods_Stringler.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\bin\Debug\Methods_Stringler.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.Form1.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.Properties.Resources.resources
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.csproj.GenerateResource.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Form Uygulamaları\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.Form2.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\bin\Debug\Methods_Stringler.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\bin\Debug\Methods_Stringler.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\bin\Debug\Methods_Stringler.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.Form2.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Methods_Stringler\Methods_Stringler\obj\Debug\Methods_Stringler.pdb
